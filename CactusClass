@@ -1,0 +1,35 @@
+import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
+
+/**
+ * 
+ * Cactus Enemy Class, used to kill player and add aesthetic
+ * Sidney Robinson
+ * Final Version
+ */
+public class Cactus extends Actor implements Enemy
+{
+
+    /**
+     * Act - do whatever the Cactus wants to do. This method is called whenever
+     * the 'Act' or 'Run' button gets pressed in the environment.
+     */
+    public void act() 
+    { 
+      Movement();//calls overwritten method 
+      checkForEdge();//calss overwritten method
+    } //end of act
+    public void checkForEdge()//overrides enemey interface method
+    {
+        if (isAtEdge())//checks for edge of world
+        {
+            getWorld().removeObject(this);//removes object when it hits end of the world
+        }
+    }//end of method
+    public void Movement()//overriddes Enemy interface method
+    {
+        move(-5);//sets default movement speed for the cactus
+        
+        
+    }//end of method
+
+}//end of class
