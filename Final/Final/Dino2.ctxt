@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Dino2
+comment0.text=\r\n\ \r\n\ Dino\ actor\ and\ main\ playable\ class\ with\ basic\ contorls\r\n\ Sidney\ Robinson\r\n\ Final\ Version\r\n
+comment1.params=
+comment1.target=Dino2()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkForDeath()
+numComments=4

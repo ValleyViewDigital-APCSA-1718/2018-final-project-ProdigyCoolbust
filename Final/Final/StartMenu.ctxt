@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StartMenu
+comment0.text=\r\n\ \r\n\ StartMenu\ first\ displayed\ also\ explains\ rules\r\n\ Sidney\ Robinson\r\n\ Final\ Version\r\n
+comment1.params=
+comment1.target=StartMenu()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StartMenu.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

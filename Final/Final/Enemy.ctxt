@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ \r\n\ Interface\ Class\ that\ ensures\ all\ enemies\ have\ a\ movement,\ and\ are\ deleted\ upon\ reaching\ the\ edge\ of\ the\ map\r\n\ Sidney\ Robinson\r\n\ Final\ Version\r\n
+comment1.params=
+comment1.target=void\ Movement()
+comment2.params=
+comment2.target=void\ checkForEdge()
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PInfo
+comment0.text=\r\n\ \r\n\ Player\ Info\ class\ that\ allows\ for\ player\ info\ to\ be\ stored\ and\ has\ overloaded\ constructors\ for\ varying\ lengths\ of\ player\ information\r\n\ Sidney\ Robinson\r\n\ Final\ Version\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ PInfo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=PInfo()
+comment3.params=I1
+comment3.target=PInfo(java.lang.String)
+comment4.params=I1\ I2
+comment4.target=PInfo(java.lang.String,\ java.lang.String)
+comment5.params=I1\ I2\ I3
+comment5.target=PInfo(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
