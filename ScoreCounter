@@ -23,5 +23,15 @@ public class ScoreCounter extends Actor
        
         
     }  //end of act
+    
+      public int getScore()
+    {
+        return score;
+    }//end getter
+    
+    public void setScore(int score)
+    {
+        this.score = score;
+    }//end setter
  
 }//end of class
